@@ -1,0 +1,1 @@
+const dishListEl=document.getElementById("dish-list")
